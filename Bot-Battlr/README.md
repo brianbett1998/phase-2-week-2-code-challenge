@@ -1,6 +1,4 @@
 # phase-2-week-2-code-challenge
-Sure, here's an example README file you could use for your project:
-
 Bot Battlr
 This is a React app that allows you to collect and manage your army of robots.
 
